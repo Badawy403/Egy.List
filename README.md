@@ -1,9 +1,20 @@
-# EgyList
-
-A comprehensive Node.js package providing access to official Egyptian data including universities, governorates, cities, and more. This package makes it easy for developers to integrate Egypt-specific information into their applications.
+<div align="center">
+  <h1>EgyList</h1>
+  <img src="assets/image/banner.png" alt="EgyList Banner" width="10000"/>
+  <p>A comprehensive Node.js package providing access to official Egyptian data including universities, governorates, cities, and more. This package makes it easy for developers to integrate Egypt-specific information into their applications.</p>
+  <br>
+  <!-- <a href="https://www.npmjs.com/package/egylist" target="_blank">
+    <img src="https://img.shields.io/npm/v/egylist?style=for-the-badge&logo=npm&label=NPM%20Version" alt="NPM Version" />
+  </a>
+  <a href="https://github.com/yourusername/egylist/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/yourusername/egylist?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/yourusername/egylist/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/yourusername/egylist?style=for-the-badge&label=License" alt="License" />
+  </a> -->
+</div>
 
 ## Installation
-
 ```bash
 npm install egylist
 ```
