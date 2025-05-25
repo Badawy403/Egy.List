@@ -27,8 +27,6 @@ function getFacultiesByUniversity(universityName) {
     id: city.id,
     name_en: city.name_en,
     name_ar: city.name_ar,
-    coordinates: city.coordinates,
-    population: city.population,
   }));
 };
 
